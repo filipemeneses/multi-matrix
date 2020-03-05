@@ -1,6 +1,6 @@
 {
   "name": "multi-matrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates N dimensional matrix",
   "main": "dist/multi-matrix.min.js",
   "scripts": {
@@ -10,6 +10,10 @@
   },
   "keywords": ["matrix", "n-dimension", "n-dimensions", "multidimensional"],
   "author": "Filipe Meneses <flcmeneses@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/filipemeneses/multi-matrix.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "eslint": "^6.8.0",
